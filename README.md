@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/armorynode/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/armorynode/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![armorynode's Stats](https://github-readme-stats.vercel.app/api?username=armorynode&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
 
-![](https://raw.githubusercontent.com/armorynode/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/armorynode/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![armorynode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armorynode&theme=dark&show_icons=true&hide_border=true&layout=compact)
