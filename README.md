@@ -1,3 +1,9 @@
-![armorynode's Stats](https://github-readme-stats.vercel.app/api?username=armorynode&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+# About me 👋
+.NET Web developer
+- 🧑‍💻 Proficient in `C#` `TS` `JS` `HTML/CSS`
+- 💭 Familiar with `Python` `Go` `PowerShell` `SQL` `C/C++`
+- 🌱 Learning `F#` `Rust` `Nix`
 
-![armorynode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armorynode&theme=dark&show_icons=true&hide_border=true&layout=compact)
+## GitHub Stats
+
+![ArmoryNode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armorynode&show_icons=true&theme=dark)
