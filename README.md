@@ -11,7 +11,7 @@
 </a>
 <h3 align="center">🧑‍💻 Proficient in</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,sass,regex">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,sass,regex"></a>
 </p>
 <h3 align="center">💡 Familiar With</h3>
 <p align="center">
