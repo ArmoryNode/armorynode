@@ -3,7 +3,10 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armorynode&show_icons=true&theme=dark" >
+  <img src="https://github-readme-stats.vercel.app/api?username=armorynode&show_icons=true&theme=github_dark_dimmed&rank_icon=github">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armorynode&layout=donut&theme=github_dark_dimmed">
 </p>
 
 <h3 align="center">🧑‍💻 Proficient in</h3>
@@ -20,9 +23,4 @@
 <h3 align="center">🌱 Complete Noob</h3>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nix,rust,bash"></a>
-</p>
-
-<h3 align="center">🧰 Stuff I Use</h3>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,rider,docker,wasm,windows,linux&perline=4"></a>
 </p>
